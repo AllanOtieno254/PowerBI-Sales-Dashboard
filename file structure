@@ -1,0 +1,15 @@
+PowerBI-Sales-Dashboard/
+│
+├── README.md
+├── Dataset/
+│   └── sales_data.csv
+│
+├── Dashboard/
+│   └── SalesDashboard.pbix
+│
+├── Screenshots/
+│   ├── TotalSalesCard.png
+│   ├── SalesByCategoryChart.png
+│   ├── SalesTrends.png
+│
+└── LICENSE
